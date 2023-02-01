@@ -12,5 +12,6 @@ Favourite teams in basketball
 # Teams I could watch
 - Brooklyn Nets
 - Dallas Mavericks
-- Phoenix Suns
+- Phoenix Sun
+
 [About me](./AboutMe.md)
