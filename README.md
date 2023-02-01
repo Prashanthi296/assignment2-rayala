@@ -9,8 +9,8 @@ Favourite teams in basketball
 2. Los Angeles Lakers
 3. Toronto raptors
  
- #Teams I could watch
- - Brooklyn Nets
- - Dallas Mavericks
- - Phoenix Suns
- 
+#Teams I could watch
+- Brooklyn Nets
+- Dallas Mavericks
+- Phoenix Suns
+[About me]https://github.com/Prashanthi296/assignment2-rayala/blob/main/AboutMe.md
