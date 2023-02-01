@@ -34,3 +34,24 @@ the below table shows the countries that I would recommend to watch with reason 
 
 ---
 # Code fencing
+```
+<div class="knockout">
+  
+  <svg class="knockout-text-container" width="100%" height="100%">
+    
+    <rect class="knockout-text-bg" width="100%" height="100%" fill="#000" x="0" y="0" fill-opacity="1" mask="url(#knockout-text)" />
+    
+    <mask id="knockout-text">
+      <rect width="100%" height="100%" fill="#fff" x="0" y="0" />
+      <text x="50%" y="50%" fill="#000" text-anchor="middle">Knock Out Text</text>
+    </mask>
+    
+  </svg>
+  
+</div>
+```
+[stack overflow](https://stackoverflow.com/questions/19640842/how-to-knockout-for-svg-text-element)
+
+
+[svg](https://css-tricks.com/snippets/svg/svg-knockout-text/)
+
