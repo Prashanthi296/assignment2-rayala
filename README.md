@@ -21,8 +21,8 @@ Favourite teams in basketball
 ---
 # Table
 the below table shows the countries that I would recommend to watch
-| country | reason | days |
+| # country |#  reason to visit | # no. of days |
 | --------- | ------ | ------|
 | Italy | Architecture | 7 |
 | India | Food         | 28 |
-| Switzeeland | Alps | 13 |
+| Switzerland | Alps | 13 |
