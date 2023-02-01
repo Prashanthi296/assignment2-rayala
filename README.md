@@ -9,4 +9,8 @@ Favourite teams in basketball
 2. Los Angeles Lakers
 3. Toronto raptors
  
+ #Teams I could watch
+ - Brooklyn Nets
+ - Dallas Mavericks
+ - Phoenix Suns
  
