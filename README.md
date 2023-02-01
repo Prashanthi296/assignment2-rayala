@@ -15,3 +15,14 @@ Favourite teams in basketball
 - Phoenix Sun
 
 [About me](./AboutMe.md)
+
+
+# Countries to visit
+---
+# Table
+the below table shows the countries that I would recommend to watch
+| country | reason | days |
+| --------- | ------ | ------|
+| Italy | Architecture | 7 |
+| India | Food         | 28 |
+| Switzeeland | Alps | 13 |
