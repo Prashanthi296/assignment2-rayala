@@ -13,4 +13,4 @@ Favourite teams in basketball
 - Brooklyn Nets
 - Dallas Mavericks
 - Phoenix Suns
-[About me] (./AboutMe.md)
+[About me](./AboutMe.md)
