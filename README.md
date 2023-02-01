@@ -18,7 +18,7 @@ Favourite teams in basketball
 
 ---
 # Countries to visit
-the below table shows the countries that I would recommend to watch
+the below table shows the countries that I would recommend to watch with reason and the number of days that I want you to spend in there\.
 |  country | reason to visit | no. of days |
 | --------- | ------ | ------|
 | Italy | Architecture | 7 |
@@ -31,3 +31,6 @@ the below table shows the countries that I would recommend to watch
 > A synonym is a word you use when you can't spell the other one         -*BALTASAR GRACIAN*
 
 > The road to hell is paved with adverbs                                 -*STEPHEN KING*
+
+---
+# Code fencing
