@@ -16,10 +16,8 @@ Favourite teams in basketball
 
 [About me](./AboutMe.md)
 
-
-# Countries to visit
 ---
-# Table
+# Countries to visit
 the below table shows the countries that I would recommend to watch
 |  country | reason to visit | no. of days |
 | --------- | ------ | ------|
@@ -27,3 +25,9 @@ the below table shows the countries that I would recommend to watch
 | India | Food         | 28 |
 | Switzerland | Alps | 13 |
 | Mexico | Beaches | 9 |
+
+---
+# Pithy quotes
+>A synonym is a word you use when you can't spell the other one      -*BALTASAR GRACIAN*
+
+>The road to hell is paved with adverbs                              -*STEPHEN KING*
