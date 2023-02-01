@@ -28,6 +28,6 @@ the below table shows the countries that I would recommend to watch
 
 ---
 # Pithy quotes
->A synonym is a word you use when you can't spell the other one      -*BALTASAR GRACIAN*
+> A synonym is a word you use when you can't spell the other one         -*BALTASAR GRACIAN*
 
->The road to hell is paved with adverbs                              -*STEPHEN KING*
+> The road to hell is paved with adverbs                                 -*STEPHEN KING*
